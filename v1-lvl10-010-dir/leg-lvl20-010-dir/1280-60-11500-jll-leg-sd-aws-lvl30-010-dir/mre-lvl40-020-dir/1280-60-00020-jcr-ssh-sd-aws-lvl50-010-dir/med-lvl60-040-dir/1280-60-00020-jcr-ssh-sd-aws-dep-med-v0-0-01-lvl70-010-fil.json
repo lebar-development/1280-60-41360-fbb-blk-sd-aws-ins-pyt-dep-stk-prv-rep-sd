@@ -1,0 +1,13 @@
+  {
+    "v1-lvl10-010-dir": {
+      "leg-lvl20-010-dir": {
+        "1280-60-11500-jll-leg-sd-aws-lvl30-010-dir": {
+          "mre-lvl40-020-dir": {
+            "1280-60-00020-jcr-ssh-sd-aws-lvl50-010-dir": {
+              "med-lvl60-040-dir": "1280-60-00020-jcr-ssh-sd-aws-dep-med-v0-0-01-lvl70-010-fil.json"
+            }
+          }
+        }
+      }
+    }
+  }
